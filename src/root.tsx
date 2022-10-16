@@ -1,9 +1,10 @@
 import { component$, useStore } from '@builder.io/qwik';
 import { QwikLottie } from './components/lottie';
+import * as animationData from '../assets/servishero_loading.json'
 
 export default component$(() => {
   const defaultOptions = useStore({
-    // animationData,
+    animationData,
     // path: '../assets/cycleAnimation.json'
     path: 'https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json',
   });
