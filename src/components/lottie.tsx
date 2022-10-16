@@ -1,41 +1,32 @@
 import { $, component$, useClientEffect$, useStore } from '@builder.io/qwik';
 import lottie from 'lottie-web';
-
-export type renderer = 'svg';
-export type path = '';
+import { Options } from '../types';
 
 export interface OptionsProps {
-  container?: any;
-  renderer?: renderer;
-  loop?: boolean;
-  autoplay?: boolean;
-  animationData?: object;
-  path?: string;
-  rendererSettings?: object;
-  name?: string;
+  options: Options
 }
 
-export const QwikLottie = component$((props: OptionsProps) => {
+export const QwikLottie = component$(({ options }: OptionsProps) => {
   const store = useStore({
     anim: {},
   });
 
-  const loadAnimation$ = $((props: OptionsProps) => {
+  const loadAnimation$ = $((options: Options) => {
     const container: any = document.getElementById('lottie');
     lottie.loadAnimation({
-      container: container || props.container,
-      renderer: props.renderer || 'svg',
-      loop: props.loop || true,
-      autoplay: props.autoplay || true,
-      animationData: props.animationData,
-      path: props.path,
-      rendererSettings: props.rendererSettings,
-      name: props.name,
+      container: container || options.container,
+      renderer: options.renderer || 'svg',
+      loop: options.loop || true,
+      autoplay: options.autoplay || true,
+      animationData: options.animationData,
+      path: options.path,
+      rendererSettings: options.rendererSettings,
+      name: options.name,
     });
   });
 
   useClientEffect$(() => {
-    store.anim = loadAnimation$(props);
+    store.anim = loadAnimation$(options);
   });
 
   return (
