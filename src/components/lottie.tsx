@@ -12,7 +12,7 @@ export interface OptionsProps {
   animationData?: object;
   path?: string;
   rendererSettings?: object;
-  name: string;
+  name?: string;
 }
 
 export const QwikLottie = component$((props: OptionsProps) => {
@@ -23,7 +23,7 @@ export const QwikLottie = component$((props: OptionsProps) => {
   useClientEffect$(() => {
     const container: any = document.getElementById('lottie');
     store.anim = lottie.loadAnimation({
-      container,
+      container: container || props.container,
       renderer: props.renderer || 'svg',
       loop: props.loop || true,
       autoplay: props.autoplay || true,
