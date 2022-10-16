@@ -70,16 +70,12 @@ npm install --save qwik-lottie
 ## Usage
 
 ```js
-import { component$ } from "@builder.io/qwik";
-import { QwikLottie } from "./components/lottie";
+import { component$ } from '@builder.io/qwik';
+import { QwikLottie } from './components/lottie';
 
 export default component$(() => {
   const defaultOptions = {
-<<<<<<< HEAD
-    path: "https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json",
-=======
     path: 'https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json',
->>>>>>> f60145d (format fix)
   };
   return (
     <>
