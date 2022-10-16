@@ -12,6 +12,7 @@ export interface OptionsProps {
   animationData?: object;
   path?: string;
   rendererSettings?: object;
+  name: string;
 }
 
 export const QwikLottie = component$((props: OptionsProps) => {
@@ -29,6 +30,7 @@ export const QwikLottie = component$((props: OptionsProps) => {
       animationData: props.animationData,
       path: props.path,
       rendererSettings: props.rendererSettings,
+      name: props.name,
     });
   });
   return <div id="lottie"></div>;

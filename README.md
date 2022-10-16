@@ -17,17 +17,19 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 <details>
 <summary>Table of Contents</summary>
 
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-- [Get Started](#get-started)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Presentation](#presentation)
-- [Tutorials](#tutorials)
-- [Examples](#examples)
-- [Blog Posts](#blog-posts)
+- [Wapper of bodymovin.js](#wapper-of-bodymovinjs)
+- [Demo](#demo)
+- [Why Lottie?](#why-lottie)
+    - [Flexible After Effects features](#flexible-after-effects-features)
+    - [Manipulate your animation any way you like](#manipulate-your-animation-any-way-you-like)
+    - [Small file sizes](#small-file-sizes)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Lottie Files](#lottie-files)
+- [Configuration](#configuration)
+- [Related Projects](#related-projects)
 - [Contributing](#contributing)
+- [License](#license)
 
 </details>
 
@@ -37,7 +39,7 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 
 ## Demo
 
-https://chenqingspring.github.io/vue-lottie
+https://qwik.design/lottie
 
 ## Why Lottie?
 
@@ -68,6 +70,9 @@ npm install --save qwik-lottie
 ## Usage
 
 ```js
+import { component$ } from '@builder.io/qwik';
+import { QwikLottie } from './components/lottie';
+
 export default component$(() => {
   const defaultOptions = {
     path: 'https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json'
@@ -81,9 +86,13 @@ export default component$(() => {
 
 ```
 
+## Lottie Files
+
+Get free json files from [LottieFiles](https://lottiefiles.com/featured).
+
 ## Configuration
 
-You can pass a configuration object through `options` property:
+You can pass a configuration object through property:
 
 - animationData: an Object with the exported animation data.
 - path: the relative path to the animation object. (animationData and path are mutually exclusive)
@@ -104,10 +113,7 @@ More information on [Bodymoving Documentation](https://github.com/bodymovin/body
 - [IOS Lottie](https://github.com/airbnb/lottie-ios) ios implementation by airbnb
 - [Android Lottie](https://github.com/airbnb/lottie-android) android implementation by airbnb
 
-## Contribution
-
-Your contributions and suggestions are heartily welcome.
-
+## Contributing
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](CONTRIBUTING.md). Thank you!.
 ## License
-
 MIT
