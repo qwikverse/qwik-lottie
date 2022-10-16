@@ -120,7 +120,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -196,7 +201,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -256,7 +266,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -413,7 +428,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -501,7 +521,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -589,7 +614,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -677,7 +707,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -765,7 +800,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -841,7 +881,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -917,7 +962,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1063,7 +1113,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1132,7 +1187,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1189,7 +1249,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1246,7 +1311,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1306,7 +1376,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1363,7 +1438,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1420,7 +1500,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1483,7 +1568,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1595,7 +1685,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1658,7 +1753,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1715,7 +1815,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1772,7 +1877,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1829,7 +1939,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1925,7 +2040,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -1994,7 +2114,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -2051,7 +2176,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -2441,7 +2571,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -2526,7 +2661,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -2726,7 +2866,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -3287,7 +3432,12 @@
                   "nm": "Path 12",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -3344,7 +3494,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -3850,7 +4005,12 @@
                   "nm": "Path 12",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -3907,7 +4067,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -4514,7 +4679,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5027,7 +5197,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5106,7 +5281,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5163,7 +5343,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5220,7 +5405,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5426,7 +5616,12 @@
                   "nm": "Path 3",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5525,7 +5720,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5603,7 +5803,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5672,7 +5877,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5741,7 +5951,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5810,7 +6025,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5879,7 +6099,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -5948,7 +6173,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6017,7 +6247,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6086,7 +6321,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6155,7 +6395,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6239,7 +6484,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6388,7 +6638,12 @@
                   "np": 1,
                   "mn": "ADBE Vector Group"
                 },
-                { "ty": "mm", "mm": 4, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 4,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6464,7 +6719,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6524,7 +6784,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6632,7 +6897,12 @@
                   "nm": "Path 3",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -6718,7 +6988,12 @@
                   "nm": "Path 3",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -7020,7 +7295,12 @@
                   "nm": "Path 3",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -7106,7 +7386,12 @@
                   "nm": "Path 3",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -7394,7 +7679,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -7476,7 +7766,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -7676,7 +7971,12 @@
                   "nm": "Path 2",
                   "mn": "ADBE Vector Shape - Group"
                 },
-                { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+                {
+                  "ty": "mm",
+                  "mm": 1,
+                  "nm": "Merge Paths 1",
+                  "mn": "ADBE Vector Filter - Merge"
+                },
                 {
                   "ty": "fl",
                   "fillEnabled": true,
@@ -7956,7 +8256,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8013,7 +8318,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8070,7 +8380,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8127,7 +8442,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8184,7 +8504,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8241,7 +8566,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8298,7 +8628,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8373,7 +8708,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8448,7 +8788,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8505,7 +8850,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8562,7 +8912,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8619,7 +8974,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8676,7 +9036,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8733,7 +9098,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8790,7 +9160,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8847,7 +9222,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8922,7 +9302,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -8997,7 +9382,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9089,7 +9479,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9146,7 +9541,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9203,7 +9603,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9260,7 +9665,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9317,7 +9727,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9374,7 +9789,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9431,7 +9851,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9506,7 +9931,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9581,7 +10011,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9638,7 +10073,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9695,7 +10135,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9752,7 +10197,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9809,7 +10259,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9866,7 +10321,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9923,7 +10383,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -9980,7 +10445,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10055,7 +10525,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10130,7 +10605,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10242,7 +10722,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10299,7 +10784,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10356,7 +10846,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10413,7 +10908,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10470,7 +10970,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10527,7 +11032,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10584,7 +11094,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10659,7 +11174,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10734,7 +11254,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10826,7 +11351,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10883,7 +11413,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10940,7 +11475,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -10997,7 +11537,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11054,7 +11599,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11111,7 +11661,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11168,7 +11723,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11243,7 +11803,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11318,7 +11883,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11417,7 +11987,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11516,7 +12091,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,
@@ -11615,7 +12195,12 @@
               "nm": "Path 2",
               "mn": "ADBE Vector Shape - Group"
             },
-            { "ty": "mm", "mm": 1, "nm": "Merge Paths 1", "mn": "ADBE Vector Filter - Merge" },
+            {
+              "ty": "mm",
+              "mm": 1,
+              "nm": "Merge Paths 1",
+              "mn": "ADBE Vector Filter - Merge"
+            },
             {
               "ty": "fl",
               "fillEnabled": true,

@@ -1,7 +1,16 @@
 {
-  "name": "my-qwik-library-name",
+  "name": "qwik-lottie",
   "version": "0.0.1",
-  "description": "Create a component library",
+  "description": "Lottie Animation View for Qwik",
+  "keywords": [
+    "lottie",
+    "animation",
+    "qwik",
+    "after-effects",
+    "advanced"
+  ],
+  "author": "John Reemar Dela Rosa <jrddelarosa@gmail.com>",
+  "license": "MIT",
   "main": "./lib/index.qwik.cjs",
   "qwik": "./lib/index.qwik.mjs",
   "module": "./lib/index.qwik.mjs",
@@ -43,9 +52,20 @@
     "eslint": "8.23.1",
     "eslint-plugin-qwik": "latest",
     "node-fetch": "3.2.10",
-    "np": "7.6.1",
+    "np": "^3.0.4",
     "prettier": "2.7.1",
     "typescript": "4.8.3",
     "vite": "3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwik-design/qwik-lottie"
+  },
+  "bugs": {
+    "url": "https://github.com/qwik-design/qwik-lottie/issues"
+  },
+  "homepage": "https://github.com/qwik-design/qwik-lottie#readme",
+  "dependencies": {
+    "qwik": "^1.0.57"
   }
 }

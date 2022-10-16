@@ -20,9 +20,9 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 - [Wapper of bodymovin.js](#wapper-of-bodymovinjs)
 - [Demo](#demo)
 - [Why Lottie?](#why-lottie)
-    - [Flexible After Effects features](#flexible-after-effects-features)
-    - [Manipulate your animation any way you like](#manipulate-your-animation-any-way-you-like)
-    - [Small file sizes](#small-file-sizes)
+  - [Flexible After Effects features](#flexible-after-effects-features)
+  - [Manipulate your animation any way you like](#manipulate-your-animation-any-way-you-like)
+  - [Small file sizes](#small-file-sizes)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Lottie Files](#lottie-files)
@@ -70,12 +70,12 @@ npm install --save qwik-lottie
 ## Usage
 
 ```js
-import { component$ } from '@builder.io/qwik';
-import { QwikLottie } from './components/lottie';
+import { component$ } from "@builder.io/qwik";
+import { QwikLottie } from "./components/lottie";
 
 export default component$(() => {
   const defaultOptions = {
-    path: 'https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json'
+    path: "https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json",
   };
   return (
     <>
@@ -83,7 +83,6 @@ export default component$(() => {
     </>
   );
 });
-
 ```
 
 ## Lottie Files
@@ -114,6 +113,9 @@ More information on [Bodymoving Documentation](https://github.com/bodymovin/body
 - [Android Lottie](https://github.com/airbnb/lottie-android) android implementation by airbnb
 
 ## Contributing
+
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](CONTRIBUTING.md). Thank you!.
+
 ## License
+
 MIT

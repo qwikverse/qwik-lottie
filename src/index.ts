@@ -1,1 +1,1 @@
-export { QwikLottie } from './components/lottie';
+export { QwikLottie } from "./components/lottie";
