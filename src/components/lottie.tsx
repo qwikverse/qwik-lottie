@@ -22,7 +22,7 @@ export const QwikLottie = component$((props: OptionsProps) => {
 
   useClientEffect$(() => {
     const container: any = document.getElementById('lottie');
-    store.anim = lottie.loadAnimation({
+    lottie.loadAnimation({
       container: container || props.container,
       renderer: props.renderer || 'svg',
       loop: props.loop || true,
