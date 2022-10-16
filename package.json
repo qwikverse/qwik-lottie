@@ -66,6 +66,7 @@
   },
   "homepage": "https://github.com/qwik-design/qwik-lottie#readme",
   "dependencies": {
+    "lottie-web": "^5.9.6",
     "qwik": "^1.0.57"
   }
 }

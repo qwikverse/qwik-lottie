@@ -1,6 +1,26 @@
-# Files Prettier should not format
+**/api.md
 **/*.log
 **/.DS_Store
 *.
+.vscode/settings.json
+.history
+.yarn
+.yarnrc.yml
+.mf
 dist
+dist-dev
+lib
+etc
+external
 node_modules
+target
+output
+rollup.config.js
+build
+.cache
+.vscode
+.rollup.cache
+tsconfig.tsbuildinfo
+packages/docs/src/routes/**/*.mdx
+**/server/**/*.js
+starters/**/*.js
