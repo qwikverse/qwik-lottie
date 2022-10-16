@@ -39,7 +39,7 @@
     "fmt": "prettier --write .",
     "fmt.check": "prettier --check .",
     "lint": "eslint \"src/**/*.ts*\"",
-    "release": "npm run build && np",
+    "release": "npm run build && np --any-branch",
     "start": "vite --open --mode ssr",
     "qwik": "qwik"
   },
