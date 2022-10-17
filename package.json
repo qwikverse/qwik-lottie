@@ -1,6 +1,6 @@
 {
   "name": "qwik-lottie",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Lottie Animation View for Qwik",
   "keywords": [
     "lottie",
@@ -41,6 +41,7 @@
     "fmt.check": "prettier --check .",
     "lint": "eslint \"src/**/*.ts*\"",
     "release": "npm run build && np --any-branch",
+    "publish": "npm run build && npm publish --access public",
     "serve": "netlify dev",
     "start": "vite --open --mode ssr",
     "qwik": "qwik"
@@ -69,6 +70,7 @@
   },
   "homepage": "https://github.com/qwik-design/qwik-lottie#readme",
   "dependencies": {
+    "@builder.io/qwik-city": "^0.0.112",
     "lottie-web": "^5.9.6",
     "qwik": "^1.0.57"
   }

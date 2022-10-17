@@ -20,9 +20,9 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 - [Wapper of bodymovin.js](#wapper-of-bodymovinjs)
 - [Demo](#demo)
 - [Why Lottie?](#why-lottie)
-  - [Flexible After Effects features](#flexible-after-effects-features)
-  - [Manipulate your animation any way you like](#manipulate-your-animation-any-way-you-like)
-  - [Small file sizes](#small-file-sizes)
+    - [Flexible After Effects features](#flexible-after-effects-features)
+    - [Manipulate your animation any way you like](#manipulate-your-animation-any-way-you-like)
+    - [Small file sizes](#small-file-sizes)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Lottie Files](#lottie-files)
@@ -30,6 +30,11 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 - [Related Projects](#related-projects)
 - [Contributing](#contributing)
 - [License](#license)
+- [Netlify](#netlify)
+  - [Local development](#local-development)
+  - [Deployments](#deployments)
+    - [Deploying via Git](#deploying-via-git)
+    - [Deploying manually via the CLI](#deploying-manually-via-the-cli)
 
 </details>
 
@@ -79,7 +84,7 @@ export default component$(() => {
   };
   return (
     <>
-      <QwikLottie path={defaultOptions.path} />
+      <QwikLottie options={defaultOptions} />
     </>
   );
 });
