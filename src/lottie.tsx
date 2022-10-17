@@ -1,9 +1,9 @@
 import { $, component$, useClientEffect$, useStore } from '@builder.io/qwik';
 import lottie from 'lottie-web';
-import { Options } from '../types';
+import { Options } from './types';
 
 export interface OptionsProps {
-  options: Options
+  options: Options;
 }
 
 export const QwikLottie = component$(({ options }: OptionsProps) => {
@@ -29,7 +29,5 @@ export const QwikLottie = component$(({ options }: OptionsProps) => {
     store.anim = loadAnimation$(options);
   });
 
-  return (
-    <div id="lottie"></div>
-  );
+  return <div id="lottie"></div>;
 });

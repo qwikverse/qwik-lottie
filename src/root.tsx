@@ -1,6 +1,6 @@
 import { component$, useStore } from '@builder.io/qwik';
-import { QwikLottie } from './components/lottie';
-import * as animationData from '../assets/servishero_loading.json'
+import { QwikLottie } from './lottie';
+import * as animationData from '../assets/servishero_loading.json';
 
 export default component$(() => {
   const defaultOptions = useStore({

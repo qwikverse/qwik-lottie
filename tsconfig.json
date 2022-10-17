@@ -9,13 +9,18 @@
     "strict": true,
     "declaration": true,
     "declarationDir": "lib-types",
+    "emitDeclarationOnly": true,
+    "incremental": false,
     "resolveJsonModule": true,
     "moduleResolution": "node",
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "incremental": true,
     "isolatedModules": true,
-    "types": ["vite/client"]
+    "types": ["vite/client", "node"],
+    "paths": {
+      "qwik-lottie": ["./src/index.ts"]
+    }
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": ["src/root.tsx", "src/entry.*.tsx"]
 }
