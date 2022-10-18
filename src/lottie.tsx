@@ -12,9 +12,9 @@ export const QwikLottie = component$(({ options }: OptionsProps) => {
   });
 
   const loadAnimation$ = $((options: Options) => {
-    const container: any = document.getElementById('lottie');
+    
     lottie.loadAnimation({
-      container: container || options.container,
+      container: options.container,
       renderer: options.renderer || 'svg',
       loop: options.loop || true,
       autoplay: options.autoplay || true,
@@ -26,7 +26,8 @@ export const QwikLottie = component$(({ options }: OptionsProps) => {
   });
 
   useClientEffect$(() => {
-    store.anim = loadAnimation$(options);
+    const container: any = document.getElementById('lottie');
+    store.anim = loadAnimation$({...options, container});
   });
 
   return <div id="lottie"></div>;
