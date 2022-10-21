@@ -1,4 +1,4 @@
-import { $, component$, useClientEffect$, useStore } from '@builder.io/qwik';
+import { $, component$, useClientEffect$, useStore, useRef } from '@builder.io/qwik';
 import lottie from 'lottie-web';
 import { Options } from './types';
 
@@ -10,9 +10,8 @@ export const QwikLottie = component$(({ options }: OptionsProps) => {
   const store = useStore({
     anim: {},
   });
-
+  const signal   = useRef();
   const loadAnimation$ = $((options: Options) => {
-    
     lottie.loadAnimation({
       container: options.container,
       renderer: options.renderer || 'svg',
@@ -26,9 +25,9 @@ export const QwikLottie = component$(({ options }: OptionsProps) => {
   });
 
   useClientEffect$(() => {
-    const container: any = document.getElementById('lottie');
+    const container = signal.current;
     store.anim = loadAnimation$({...options, container});
   });
 
-  return <div id="lottie"></div>;
+  return <div ref={signal}></div>;
 });
