@@ -20,9 +20,9 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 - [Wapper of bodymovin.js](#wapper-of-bodymovinjs)
 - [Demo](#demo)
 - [Why Lottie?](#why-lottie)
-  - [Flexible After Effects features](#flexible-after-effects-features)
-  - [Manipulate your animation any way you like](#manipulate-your-animation-any-way-you-like)
-  - [Small file sizes](#small-file-sizes)
+    - [Flexible After Effects features](#flexible-after-effects-features)
+    - [Manipulate your animation any way you like](#manipulate-your-animation-any-way-you-like)
+    - [Small file sizes](#small-file-sizes)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Lottie Files](#lottie-files)
@@ -44,7 +44,12 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 
 ## Demo
 
-https://qwik.design/lottie
+<p align="center" class="rich-diff-level-zero">
+  <img src="/gifs/preview5.gif">
+  <img src="/gifs/preview0.gif" >
+  <img src="/gifs/preview1.gif" style="width: 500px;">
+  <img src="/gifs/preview4.gif">
+</p>
 
 ## Why Lottie?
 
