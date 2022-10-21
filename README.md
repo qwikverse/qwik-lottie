@@ -80,19 +80,25 @@ npm install --save qwik-lottie
 ## Usage
 
 ```js
-import { component$ } from '@builder.io/qwik';
+import { component$, useStore } from '@builder.io/qwik';
 import { QwikLottie } from 'qwik-lottie';
 
 export default component$(() => {
-  const defaultOptions = {
-    path: 'https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json',
-  };
+  const store = useStore({
+    options: {
+      path: 'https://assets7.lottiefiles.com/packages/lf20_M6jA5UNDHa.json',
+    },
+  });
   return (
     <>
-      <QwikLottie options={defaultOptions} />
+      <div>
+        <h1>Welcome to lottie demo</h1>
+        <QwikLottie options={store.options} />
+      </div>
     </>
   );
 });
+
 ```
 
 ## Lottie Files
