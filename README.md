@@ -74,7 +74,7 @@ Looking for lottie files › https://www.lottiefiles.com/
 Install through npm:
 
 ```
-npm install --save qwik-lottie
+npm install --save @jrx/qwik-lottie
 ```
 
 ## Usage
@@ -92,7 +92,6 @@ export default component$(() => {
   return (
     <>
       <div>
-        <h1>Welcome to lottie demo</h1>
         <QwikLottie options={store.options} />
       </div>
     </>
