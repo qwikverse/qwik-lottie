@@ -45,10 +45,10 @@ Lottie Animation Component for <a href='https://github.com/BuilderIO/qwik'>Qwik<
 ## Demo
 
 <p align="center" class="rich-diff-level-zero">
-  <img src="/gifs/preview5.gif">
-  <img src="/gifs/preview0.gif" >
-  <img src="/gifs/preview1.gif" style="width: 500px;">
-  <img src="/gifs/preview4.gif">
+  <img src="./gifs/preview5.gif">
+  <img src="./gifs/preview0.gif" >
+  <img src="./gifs/preview1.gif" style="width: 500px;">
+  <img src="./gifs/preview4.gif">
 </p>
 
 ## Why Lottie?
