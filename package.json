@@ -1,6 +1,6 @@
 {
-  "name": "@jrdrx/qwik-lottie",
-  "version": "0.1.5",
+  "name": "qwik-lottie",
+  "version": "0.1.6",
   "description": "Lottie Animation View for Qwik",
   "keywords": [
     "lottie",
