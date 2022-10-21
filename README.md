@@ -74,14 +74,14 @@ Looking for lottie files › https://www.lottiefiles.com/
 Install through npm:
 
 ```
-npm install --save @jrx/qwik-lottie
+npm install --save @jrdrx/qwik-lottie
 ```
 
 ## Usage
 
 ```js
 import { component$, useStore } from '@builder.io/qwik';
-import { QwikLottie } from 'qwik-lottie';
+import { QwikLottie } from '@jrdrx/qwik-lottie';
 
 export default component$(() => {
   const store = useStore({
