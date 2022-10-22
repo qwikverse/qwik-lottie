@@ -1,4 +1,4 @@
-import { $, component$, useClientEffect$, useStore, useSignal } from '@builder.io/qwik';
+import { component$, useClientEffect$, useStore, useSignal, noSerialize } from '@builder.io/qwik';
 import lottie from 'lottie-web';
 import { Options } from './types';
 
@@ -8,12 +8,13 @@ export interface OptionsProps {
 
 export const QwikLottie = component$(({ options }: OptionsProps) => {
   const store = useStore({
-    anim: {},
+    anim: noSerialize({}),
   });
-  const signal   = useSignal<Element>();
-  const loadAnimation$ = $((options: Options) => {
-    return lottie.loadAnimation({
-      container: options.container,
+  const canvas   = useSignal<Element>();
+
+  useClientEffect$(() => {
+    store.anim = noSerialize(lottie.loadAnimation({
+      container: options.container || canvas.value,
       renderer: options.renderer || 'svg',
       loop: options.loop || true,
       autoplay: options.autoplay || true,
@@ -21,13 +22,8 @@ export const QwikLottie = component$(({ options }: OptionsProps) => {
       path: options.path,
       rendererSettings: options.rendererSettings,
       name: options.name,
-    });
+    }));
   });
 
-  useClientEffect$(() => {
-    const container = signal.value;
-    store.anim = loadAnimation$({...options, container});
-  });
-
-  return <div ref={signal}></div>;
+  return <div ref={canvas}></div>;
 });
