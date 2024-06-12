@@ -21,6 +21,5 @@
       "qwik-lottie": ["./src/index.ts"]
     }
   },
-  "include": ["src"],
-  "exclude": ["src/root.tsx", "src/entry.*.tsx"]
+  "include": ["src"]
 }
